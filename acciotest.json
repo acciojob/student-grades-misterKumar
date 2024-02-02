@@ -1,4 +1,4 @@
 {
-    "testRepo": "Name(not the link) of the Solution Repo",
+    "testRepo": "student-grades-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
